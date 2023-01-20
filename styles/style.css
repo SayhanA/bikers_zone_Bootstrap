@@ -46,3 +46,12 @@ header{
 .icon-size{
     width: 20px !important;
 }
+.btn-border{
+    border: 2px solid #fd7e14 !important;
+}
+.color{
+    color: #fd7e14 !important;
+}
+.bg-color{
+    background-color: #fd7e14 !important;
+}
