@@ -43,3 +43,6 @@ header{
 .navbar-brand>h1{
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.237);
 }
+.icon-size{
+    width: 20px !important;
+}
